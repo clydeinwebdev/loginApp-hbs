@@ -20,6 +20,7 @@ Part I - Local and Remote Repo Setup
 
 Part II - Update Remote Repo
 1. Go back to your local directory. Create the following file structure
+	
 	```html
 	- loginApp-hbs
 	  - public
@@ -29,4 +30,5 @@ Part II - Update Remote Repo
 	  	- index.hbs
 	  	- login.hbs
 	```
+	
 to be continued...
